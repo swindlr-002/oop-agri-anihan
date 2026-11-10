@@ -13,7 +13,6 @@ public abstract class Crop {
         this.governmentSRP = governmentSRP;
     }
 
-    // Abstract method placeholder for team implementation
     public abstract double computeMarketValue();
 
     public String getCropId() { return cropId; }

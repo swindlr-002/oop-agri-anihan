@@ -8,7 +8,7 @@ public class NonPerishableCrop extends Crop {
 
     @Override
     public double computeMarketValue() {
-        // TODO: Implement storage fee deduction logic
+        // TODO: storage fee deduction
         return weightKg * marketPricePerKg;
     }
 }

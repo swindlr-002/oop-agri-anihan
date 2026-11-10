@@ -8,7 +8,7 @@ public class PerishableCrop extends Crop {
 
     @Override
     public double computeMarketValue() {
-        // TODO: Implement spoilage deduction logic
+        // TODO: spoilage deduction
         return weightKg * marketPricePerKg;
     }
 }

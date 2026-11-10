@@ -9,7 +9,7 @@ public class Main {
         System.out.println("3. Exit");
         System.out.print("Choice: ");
         
-        // Placeholder execution loop for team testing
+        // testing
         System.out.println("\n=== Farmer Registration ===");
     }
 }
